@@ -1,0 +1,13 @@
+Unix
+Bash
+Git
+HTML
+CSS
+JavaScript
+
+
+Trybe
+REACT
+NODE
+=======
+Phyton
